@@ -1,0 +1,1 @@
+#1.索引建立规则```CREATE  INDEX i_字段_表名 ON 表名(字段);CREATE UNIQUE  INDEX i_字段_表名 ON 表名(字段);```
