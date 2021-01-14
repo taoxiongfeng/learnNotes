@@ -15,6 +15,7 @@
     * [13.nginx配置拦截URL特殊字符](linux/13.nginx配置拦截URL特殊字符.md)
     * [14.使用docker部署springboot项目](linux/14.使用docker部署springboot项目.md)
     * [15.docker安装nginx实现负载均衡.md](linux/15.docker安装nginx实现负载均衡.md)
+    * [16.mysql5.6主从同步.md](linux/16.mysql5.6主从同步.md)
 * 二、windows
     * [1.java1.8环境的安装](windows/1.java1.8环境的安装.md)
     * [2.tomcat8服务的安装与配置](windows/2.tomcat8服务的安装与配置.md)
