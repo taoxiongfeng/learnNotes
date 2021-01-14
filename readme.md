@@ -29,6 +29,8 @@
 * 四、避雷区
     * [1.经验总结](work/1.经验总结.md)
     * [2.文件检查](work/2.文件编辑.md)
+* 五、学习总结
+    * [1.数据传输加密设计方案](数据传输加密设计方案.docx)
 * 附件:学习资料
     * [1.Java编程思想第四版完整中文高清版.pdf](learndata/Java编程思想第四版完整中文高清版.pdf)
     * [2.Java企业级开发项目实践.pdf](learndata/Java企业级开发项目实践.pdf)
@@ -38,3 +40,5 @@
     * [6.跟我学Shiro-v1.1.pdf](learndata/跟我学Shiro-v1.1.pdf)
     * [7.设计模式之禅（第2版）.pdf](learndata/设计模式之禅（第2版）.pdf)
     * [8.Mindmanager2016](learndata/mindmanager2016.zip)
+    * [9.Typora-md文件编辑器](learndata/typora-setup-x64_0.9.78.zip)
+    * [9.jmeter测试工具](learndata/apache-jmeter-5.2.1.tgz)
