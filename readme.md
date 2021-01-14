@@ -43,3 +43,4 @@
     * [8.Mindmanager2016](learndata/mindmanager2016.zip)
     * [9.Typora-md文件编辑器](learndata/typora-setup-x64_0.9.78.zip)
     * [10.jmeter测试工具](learndata/apache-jmeter-5.2.1.tgz)
+    * [11.数据库字典表导出工具DBCHM](learndata/DBCHM v1.7.5.zip)
